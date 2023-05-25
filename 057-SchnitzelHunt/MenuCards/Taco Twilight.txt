@@ -1,0 +1,19 @@
+APPETIZERS
+
+Bruschetta: 10€
+Stuffed Mushrooms: 8€
+Buffalo Wings: 7€
+Hummus: 7€
+
+MAIN DISHES
+
+Schnitzel: 13€
+Lamb Curry: 10€
+Beef Tacos: 13€
+
+DESSERTS
+
+Cheesecake: 3€
+Tiramisu: 7€
+Creme Brulee: 5€
+Ice Cream: 5€

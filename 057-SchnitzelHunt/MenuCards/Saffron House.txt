@@ -1,0 +1,19 @@
+APPETIZERS
+
+Vegetable Soup: 3€
+Stuffed Mushrooms: 8€
+Nachos: 8€
+Bruschetta: 5€
+
+MAIN DISHES
+
+Spaghetti: 9€
+BBQ Ribs: 11€
+Beef Burger: 11€
+Lamb Curry: 10€
+
+DESSERTS
+
+Pudding: 7€
+Pavlova: 5€
+Baklava: 8€

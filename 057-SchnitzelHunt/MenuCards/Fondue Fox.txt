@@ -1,0 +1,19 @@
+APPETIZERS
+
+Stuffed Mushrooms: 10€
+Caprese Salad: 3€
+Hummus: 4€
+Schnitzel Miniburger: 7€
+Quesadilla: 5€
+
+MAIN DISHES
+
+Grilled Chicken: 14€
+Steak Frites: 11€
+Schnitzel: 12€
+
+DESSERTS
+
+Apple Pie: 4€
+Sweet Schnitzel Surprise: 3€
+Pavlova: 5€

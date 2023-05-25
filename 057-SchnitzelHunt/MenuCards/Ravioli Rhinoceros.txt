@@ -1,0 +1,19 @@
+APPETIZERS
+
+Buffalo Wings: 8€
+Nachos: 4€
+Quesadilla: 9€
+Bruschetta: 10€
+
+MAIN DISHES
+
+Spaghetti: 15€
+Grilled Chicken: 12€
+Pepperoni Pizza: 11€
+Salmon Teriyaki: 9€
+
+DESSERTS
+
+Tiramisu: 6€
+Apple Pie: 4€
+Chocolate Cake: 6€

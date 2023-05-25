@@ -1,0 +1,20 @@
+APPETIZERS
+
+Caprese Salad: 6€
+Vegetable Soup: 10€
+Nachos: 5€
+Hummus: 10€
+Guacamole: 7€
+
+MAIN DISHES
+
+Chicken Parmesan: 15€
+Schnitzel: 13€
+Beef Tacos: 9€
+
+DESSERTS
+
+Strawberry Shortcake: 3€
+Apple Pie: 7€
+Chocolate Cake: 5€
+Cheesecake: 4€

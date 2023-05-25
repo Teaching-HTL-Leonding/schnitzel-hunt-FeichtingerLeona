@@ -1,0 +1,21 @@
+APPETIZERS
+
+Quesadilla: 6€
+Prawn Cocktail: 10€
+Calamari: 8€
+Deviled Eggs: 5€
+
+MAIN DISHES
+
+Spaghetti: 13€
+Lamb Curry: 11€
+BBQ Ribs: 9€
+Grilled Chicken: 13€
+Steak Frites: 15€
+
+DESSERTS
+
+Baklava: 8€
+Creme Brulee: 3€
+Brownies: 6€
+Pudding: 5€

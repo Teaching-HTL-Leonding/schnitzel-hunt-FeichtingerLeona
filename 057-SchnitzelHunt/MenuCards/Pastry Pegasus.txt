@@ -1,0 +1,18 @@
+APPETIZERS
+
+Buffalo Wings: 7€
+Potato Skins: 4€
+Quesadilla: 7€
+Hummus: 9€
+
+MAIN DISHES
+
+Fish and Chips: 14€
+Pepperoni Pizza: 15€
+Chicken Parmesan: 13€
+
+DESSERTS
+
+Creme Brulee: 5€
+Strawberry Shortcake: 5€
+Apple Pie: 5€

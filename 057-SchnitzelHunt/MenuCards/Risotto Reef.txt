@@ -1,0 +1,20 @@
+APPETIZERS
+
+Guacamole: 10€
+Hummus: 6€
+Buffalo Wings: 6€
+Calamari: 8€
+
+MAIN DISHES
+
+Beef Burger: 11€
+Pepperoni Pizza: 13€
+Salmon Teriyaki: 10€
+Vegetable Stir-Fry: 13€
+
+DESSERTS
+
+Cheesecake: 5€
+Cannoli: 4€
+Brownies: 4€
+Chocolate Cake: 7€

@@ -1,0 +1,18 @@
+APPETIZERS
+
+Schnitzel Miniburger: 4€
+Buffalo Wings: 6€
+Hummus: 4€
+
+MAIN DISHES
+
+Grilled Chicken: 12€
+Fried Rice: 14€
+Steak Frites: 9€
+Schnitzel: 13€
+
+DESSERTS
+
+Brownies: 3€
+Cheesecake: 7€
+Pudding: 6€

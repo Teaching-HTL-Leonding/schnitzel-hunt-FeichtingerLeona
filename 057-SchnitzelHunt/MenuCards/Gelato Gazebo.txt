@@ -1,0 +1,18 @@
+APPETIZERS
+
+Schnitzel Miniburger: 9€
+Nachos: 5€
+Bruschetta: 5€
+
+MAIN DISHES
+
+Steak Frites: 14€
+BBQ Ribs: 14€
+Grilled Chicken: 15€
+
+DESSERTS
+
+Strawberry Shortcake: 6€
+Creme Brulee: 7€
+Chocolate Cake: 8€
+Cheesecake: 3€

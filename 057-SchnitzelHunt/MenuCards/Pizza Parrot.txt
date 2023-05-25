@@ -1,0 +1,21 @@
+APPETIZERS
+
+Quesadilla: 9€
+Prawn Cocktail: 10€
+Buffalo Wings: 4€
+Caprese Salad: 7€
+Guacamole: 10€
+
+MAIN DISHES
+
+Chicken Parmesan: 15€
+Spaghetti: 13€
+Beef Tacos: 11€
+
+DESSERTS
+
+Ice Cream: 5€
+Lemon Tart: 6€
+Strawberry Shortcake: 6€
+Apple Pie: 4€
+Panna Cotta: 4€

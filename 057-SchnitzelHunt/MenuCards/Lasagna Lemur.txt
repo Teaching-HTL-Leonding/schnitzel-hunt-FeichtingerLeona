@@ -1,0 +1,19 @@
+APPETIZERS
+
+Caprese Salad: 10€
+Spring Rolls: 4€
+Bruschetta: 6€
+Guacamole: 10€
+Vegetable Soup: 3€
+
+MAIN DISHES
+
+Pepperoni Pizza: 9€
+Steak Frites: 15€
+Grilled Chicken: 10€
+
+DESSERTS
+
+Chocolate Cake: 7€
+Ice Cream: 4€
+Tiramisu: 3€
