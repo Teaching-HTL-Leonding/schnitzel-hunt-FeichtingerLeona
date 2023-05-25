@@ -3,33 +3,35 @@ int maxPrice = 0;
 int minPrice = 1000;
 string minPriceRestaurant = "";
 string maxPriceRestaurant = "";
+string restaurantName = "";
 System.Console.WriteLine($"Where to get {MEAL}?");
 
 string[] menues = Directory.GetFiles(@"C:\Users\Leona\OneDrive - HTBLA Leonding\Desktop\Programmieren\übungen\057-SchnitzelHunt\MenuCards");
 
-foreach(string menuePath in menues)
+foreach (string menuePath in menues)
 {
     string[] singleMenueCards = File.ReadAllLines(menuePath);
-    for (int j = 0; j < singleMenueCards.Length; j++)
+    foreach (string singleMenueCard in singleMenueCards)
     {
-        if (singleMenueCards[j].Contains(MEAL))
+        if (singleMenueCard.Contains(MEAL))
         {
-            int index1 = menuePath.LastIndexOf('\\');
-            string fileName = menuePath.Substring(index1 + 1);
-            int index2 = fileName.LastIndexOf('.');
-            string rataurantName = fileName.Substring(0, index2);
-            System.Console.WriteLine(rataurantName);
-            System.Console.WriteLine($"     {singleMenueCards[j]}");
-            FindMostAndLeastExpenciveMeal(singleMenueCards[j], ref maxPrice, ref minPrice, ref maxPriceRestaurant, ref minPriceRestaurant, rataurantName);
+            PrintMenueWithSchnitzel(menuePath, singleMenueCard, ref restaurantName);
+            FindMostAndLeastExpenciveMeal(singleMenueCard, ref maxPrice, ref minPrice, ref maxPriceRestaurant, ref minPriceRestaurant, restaurantName);
         }
     }
 }
-System.Console.WriteLine();
-System.Console.WriteLine("WHERE TO GET THE CHEAPEST SEITAN SCHNITZEL?");
-System.Console.WriteLine($"{minPriceRestaurant}, {minPrice}€");
-System.Console.WriteLine();
-System.Console.WriteLine("WHERE TO GET THE MOUST EXPENCIVE SEITAN SCHNITZEL?");
-System.Console.WriteLine($"{maxPriceRestaurant}, {maxPrice}€");
+PrintCeapestAndMostExpencive(minPrice, maxPrice, minPriceRestaurant, maxPriceRestaurant);
+
+
+void PrintMenueWithSchnitzel(string menuePath, string singleMenueCard, ref string restaurantName)
+{
+    int index1 = menuePath.LastIndexOf('\\');
+    string fileName = menuePath.Substring(index1 + 1);
+    int index2 = fileName.LastIndexOf('.');
+    restaurantName = fileName.Substring(0, index2);
+    System.Console.WriteLine(restaurantName);
+    System.Console.WriteLine($"     {singleMenueCard}");
+}
 
 void FindMostAndLeastExpenciveMeal(string mealInMenue, ref int maxPrice, ref int minPrice, ref string maxPriceRestaurant, ref string minPriceRestaurant, string restaurant)
 {
@@ -50,4 +52,14 @@ void FindMostAndLeastExpenciveMeal(string mealInMenue, ref int maxPrice, ref int
             maxPriceRestaurant = restaurant;
         }
     }
+}
+
+void PrintCeapestAndMostExpencive(int minPrice, int maxPrice, string minPriceRestaurant, string maxPriceRestaurant)
+{
+    System.Console.WriteLine();
+    System.Console.WriteLine("WHERE TO GET THE CHEAPEST SEITAN SCHNITZEL?");
+    System.Console.WriteLine($"{minPriceRestaurant}, {minPrice}€");
+    System.Console.WriteLine();
+    System.Console.WriteLine("WHERE TO GET THE MOUST EXPENCIVE SEITAN SCHNITZEL?");
+    System.Console.WriteLine($"{maxPriceRestaurant}, {maxPrice}€");
 }
